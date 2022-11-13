@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Minesweeper/task" />
+            <option value="$PROJECT_DIR$/Minesweeper/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Minesweeper/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Minesweeper/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Minesweeper/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Minesweeper/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Minesweeper/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Minesweeper/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Follow the conventions" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Violation" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Comment some lines" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Find the correct comment" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Unused comments" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Init usage" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Pets" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Keyword" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/New planet" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Operations on var objects" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Possible properties types" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Comparing sums" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Get last digit" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Right equation" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/What should be specified" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Declarations" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Danger level" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Days of the week" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Properties of Enum" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Equality/Every mistake makes coding stronger" />
+            <option value="$PROJECT_DIR$/Topics/Equality/How to compare" />
+            <option value="$PROJECT_DIR$/Topics/Equality/Kings of Sweden" />
+            <option value="$PROJECT_DIR$/Topics/Equality/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Delegation" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Last digit" />
+            <option value="$PROJECT_DIR$/Topics/Extension functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/For loops task" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Right Rotation" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Sum of numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Password decomposition" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Application as a class" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Arithmetic operations" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Car" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Facts about member functions" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Car price" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Find the correct invocations" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/URL" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Facts about setters" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Weather comparison" />
+            <option value="$PROJECT_DIR$/Topics/Random/Predictable  random  password" />
+            <option value="$PROJECT_DIR$/Topics/Random/Roll the dice" />
+            <option value="$PROJECT_DIR$/Topics/Random/The Rock-Paper-Scissors game" />
+            <option value="$PROJECT_DIR$/Topics/Random/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Fix the input" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/How to learn the whole Kotlin per one task" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Read a Double" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Reversed output" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Fabric manufacture" />
+            <option value="$PROJECT_DIR$/Topics/Secondary constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Cutting the fraction" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Existing functions" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Overflow and crash" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Reasons" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Sum of Longs" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/The superior forces of the Empire" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Theory" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Direction" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Topics/When expression/String processor" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Strings as objects" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

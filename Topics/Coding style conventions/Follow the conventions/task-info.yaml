@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: The first curly brace ("{") should be moved upward and put after fun main().
+- text: Semi-colons should be omitted.
+- text: This snippet looks good, nothing should be changed.
+- text: 'The first curly brace should be indented 4 spaces to the right. '
+- text: The last curly brace should be moved to the next line.
+- text: All lines between "{" and "}" should be right under each other, with 4 space
+    indentation.
+- text: Indentation is not important, the code between "{" and "}" can be left as
+    it is. As far as I understand, it’s fine.
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15367#comment
+status: Solved
+record: -1
+local_check: false
