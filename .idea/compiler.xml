@@ -52,6 +52,8 @@
       <module name="Minesweeper.Topics-Functional_decomposition-Decompose_a_math_function.main" target="11" />
       <module name="Minesweeper.Topics-Functional_decomposition-Password_decomposition.main" target="11" />
       <module name="Minesweeper.Topics-Functional_decomposition-Theory.main" target="11" />
+      <module name="Minesweeper.Topics-Jumps_and_returns-First_digit.main" target="11" />
+      <module name="Minesweeper.Topics-Jumps_and_returns-Theory.main" target="11" />
       <module name="Minesweeper.Topics-Member_functions-Application_as_a_class.main" target="11" />
       <module name="Minesweeper.Topics-Member_functions-Arithmetic_operations.main" target="11" />
       <module name="Minesweeper.Topics-Member_functions-Car.main" target="11" />
